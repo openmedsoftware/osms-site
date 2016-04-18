@@ -1,0 +1,36 @@
+{
+    "prologue": {
+        "title": {
+            "en": "Prologue"
+        },
+        "pages": {
+            "contributing": {
+                "title": {
+                    "en": "Contributing"
+                }
+            },
+            "structure": {
+                "title": {
+                    "en": "Structure"
+                }
+            }
+        }
+    },
+    "setup": {
+        "title": {
+            "en": "Setup"
+        },
+        "pages": {
+            "installation": {
+                "title": {
+                    "en": "Installation"
+                }
+            },
+            "configuration": {
+                "title": {
+                    "en": "Configuration"
+                }
+            }
+        }
+    }
+}

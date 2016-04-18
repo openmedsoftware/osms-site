@@ -1,0 +1,11 @@
+/bin
+/core
+/build
+/vendor
+/coverage
+/node_modules
+.coverage
+.env
+.vagrant
+composer.lock
+Homestead.yaml
